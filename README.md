@@ -81,7 +81,7 @@ Road type is a strong predictor of accident likelihood, with single carriageways
 #### ✔ **Casualties by Location (Urban vs Rural)**  
 - **Urban areas:** ~64%  
 - **Rural areas:** ~35%  
-Urban areas naturally see higher traffic density, resulting in more accidents.
+Urban areas experienced higher traffic density, resulting in more accidents.
 
 #### ✔ **Monthly Casualty Trend**  
 - Casualties peak between **May and October**.  
@@ -123,6 +123,3 @@ Data fields analysed include:
 - Visual design best practices  
 
 ---
-
-
-
