@@ -49,7 +49,7 @@ Key observations:
 ## **2️⃣ Accidents by Road Type and Severity**
 
 <p align="center">
-  <img src="images/accidents_by_road_type_severity.png" width="85%" />
+  <img src="Road_Data_Images/Accidents by Road type and severity_Power BI.png" width="85%" />
 </p>
 
 ### **Insight:**  
@@ -65,7 +65,7 @@ Road type is a strong predictor of accident likelihood, with single carriageways
 ## **3️⃣ Complete Road Accident Dashboard**
 
 <p align="center">
-  <img src="images/road_accidents_dashboard.png" width="90%" />
+  <img src="Road_Data_Images/Road accidents dashboard.png" width="90%" />
 </p>
 
 ### 🔎 **Dashboard Highlights**
