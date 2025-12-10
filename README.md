@@ -33,7 +33,7 @@ The dashboard helps decision-makers understand where and why accidents happen �
 ## **1️⃣ Accidents by Road Surface and Weather Conditions**
 
 <p align="center">
-  <img src="images/accidents_surface_weather.png" width="85%" />
+  <img src="Road_Data_Images/Accidents by road surface and weather conditions.png" width="85%" />
 </p>
 
 ### **Insight:**  
